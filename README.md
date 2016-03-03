@@ -44,7 +44,7 @@ For Line Chart:
 Hour : 12
 Sales : 40
 ```
-Check your dashboard page, charts are refreshed with data. Cool!
+Check your dashboard page, charts are now refreshed with new data. Cool!
 Try it! :)
 
 # License

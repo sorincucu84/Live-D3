@@ -32,9 +32,9 @@ Now you can open your browser and open these two links in two different tabs:
 http://localhost:3000/dashboard.html
 http://localhost:3000/user.html
 ```
-Woah! I am able to see D3 charts in Dashboard page. Cool!
+Woah! I am able to see D3 charts in Dashboard page.
 
-Now try entering some data for updating charts in 'user.html'. 
+Now try entering some data 'user.html' page for updating charts in the dashboard. 
 For e.g.
 ```
 For Pie Chart:
@@ -44,7 +44,7 @@ For Line Chart:
 Hour : 12
 Sales : 40
 ```
-
+Check your dashboard page, charts are refreshed with data. Cool!
 Try it! :)
 
 # License

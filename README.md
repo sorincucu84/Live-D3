@@ -19,5 +19,22 @@ Step 2. **Installing server dependencies** Go to the local folder where you have
 Step 3. **Installing client dependencies** Go inside the '/public' folder via command prompt and type:
   ```
   npm install
-  ``
-  
+  ```
+Step 4. Now you can go back to local folder where you have the file 'server.js' and run the node server by typing:
+  ```
+  node server.js
+  ```
+Step 5. If you are able to see : "listening on *:3000" in your command prompt, you have installed the project successfully. 
+
+#Usage
+Now you can open your browser and open these two links in your two different tabs:
+```
+http://localhost:3000/dashboard.html
+http://localhost:3000/user.html
+```
+Woah! I am able to see D3 charts in Dashboard page. Cool!
+Now you can add data to your D3 Charts in real-time by entering data in user.html page.
+Try it! :)
+
+# License
+MIT

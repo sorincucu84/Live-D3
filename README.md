@@ -20,7 +20,7 @@ Step 3. **Installing client dependencies** Go inside the '/public' folder via co
   ```
   npm install
   ```
-Step 4. Now you can go back to local folder where you have the file 'server.js' and run the node server by typing:
+Step 4. **Running server** Now you can go back to local folder where you have the file 'server.js' and run the node server by typing:
   ```
   node server.js
   ```

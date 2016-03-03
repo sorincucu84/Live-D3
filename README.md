@@ -27,13 +27,24 @@ Step 4. Now you can go back to local folder where you have the file 'server.js' 
 Step 5. If you are able to see : "listening on *:3000" in your command prompt, you have installed the project successfully. 
 
 #Usage
-Now you can open your browser and open these two links in your two different tabs:
+Now you can open your browser and open these two links in two different tabs:
 ```
 http://localhost:3000/dashboard.html
 http://localhost:3000/user.html
 ```
 Woah! I am able to see D3 charts in Dashboard page. Cool!
-Now you can add data to your D3 Charts in real-time by entering data in user.html page.
+
+Now try entering some data for updating charts in 'user.html'. 
+For e.g.
+```
+For Pie Chart:
+Any integer : 23,56,67 etc.
+
+For Line Chart:
+Hour : 12
+Sales : 40
+```
+
 Try it! :)
 
 # License

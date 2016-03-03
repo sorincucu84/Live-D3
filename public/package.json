@@ -1,0 +1,21 @@
+{
+  "name": "ngd3",
+  "version": "1.0.0",
+  "description": "A collection of angular components for D3 charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "D3"
+  ],
+  "author": "Veer Chandra",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "d3": "^3.5.16",
+    "jquery": "^2.2.0"
+  }
+}

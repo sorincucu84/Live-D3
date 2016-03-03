@@ -1,0 +1,21 @@
+line-chart .axis path,
+line-chart .axis line{
+  fill: none;
+  stroke:black;
+  shape-rendering:crispEdge;
+}
+
+line-chart .axis text{
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+line-chart h1{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+line-chart .tick
+{
+  stroke-dasharray: 1, 2;
+}

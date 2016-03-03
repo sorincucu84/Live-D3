@@ -38,11 +38,11 @@ Now try entering some data 'user.html' page for updating charts in the dashboard
 For e.g.
 ```
 For Pie Chart:
-Any integer : 23,56,67 etc.
+Enter Data : 23 (any integer)
 
 For Line Chart:
-Hour : 12
-Sales : 40
+Enter Hour : 12 (any integer)
+Enter Sales : 40 (any integer)
 ```
 Check your dashboard page, charts are now refreshed with new data. Cool!
 Try it! :)

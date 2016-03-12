@@ -47,8 +47,8 @@ For Line Chart:
 Enter Hour : 12 (any integer)
 Enter Sales : 40 (any integer)
 ```
-Check your dashboard page, charts are now refreshed with new data. Cool!
-Try it! :)
+Check your dashboard page, charts are now being refreshed automatically with new data. Cool!
+Isn't it! :)
 
 # License
 MIT

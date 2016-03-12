@@ -2,6 +2,9 @@
 
 **ng-D3** is a kickstart project to build real-time D3 chart components using angular and WebSockets(Socket.IO).
 
+#Demo
+![ng-D3 Demo](https://github.com/veercg/ng-D3/blob/master/demo.gif)
+
 #Download
 You can either download the whole project by clicking "Download ZIP" button on top-right side or can clone the repository to your local via cmd :
 ```

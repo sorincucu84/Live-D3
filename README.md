@@ -1,6 +1,6 @@
 # Live-D3
 
-**Live-D3** is a kickstart project to build real-time D3 chart components using angular and WebSockets(Socket.IO).
+**Live-D3** is a kickstart project to build real-time D3 chart components using Angular and WebSockets(Socket.IO).
 
 #Demo
 ![Live-D3 Demo](https://github.com/veercg/Live-D3/blob/master/demo.gif)

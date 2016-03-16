@@ -4,6 +4,7 @@
 
 #Demo
 ![ng-D3 Demo](https://github.com/veercg/ng-D3/blob/master/demo.gif)
+** Notice the dashboard page, Charts are getting updated with new data in real-time, without any manual reload of dashboard page.
 
 #Download
 You can either download the whole project by clicking "Download ZIP" button on top-right side or can clone the repository to your local via cmd :

@@ -1,15 +1,15 @@
-# ng-D3
+# Live-D3
 
 **ng-D3** is a kickstart project to build real-time D3 chart components using angular and WebSockets(Socket.IO).
 
 #Demo
-![ng-D3 Demo](https://github.com/veercg/ng-D3/blob/master/demo.gif)
+![ng-D3 Demo](https://github.com/veercg/Live-D3/blob/master/demo.gif)
 ** Notice the dashboard page, Charts are getting updated with new data in real-time, without any manual reload of dashboard page.
 
 #Download
 You can either download the whole project by clicking "Download ZIP" button on top-right side or can clone the repository to your local via cmd :
 ```
-git clone https://github.com/veercg/ng-D3.git
+git clone https://github.com/veercg/Live-D3.git
 ```
 
 #Installation
@@ -48,8 +48,8 @@ For Line Chart:
 Enter Hour : 12 (any integer)
 Enter Sales : 40 (any integer)
 ```
-Check your dashboard page, charts are now being refreshed automatically with new data. Cool!
-Isn't it! :)
+Check out the dashboard page, charts got updated automatically in real-time. Cool!
+Isn't it. :)
 
 # License
 MIT

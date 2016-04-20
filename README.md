@@ -13,7 +13,7 @@ git clone https://github.com/veercg/Live-D3.git
 ```
 
 #Installation
-Step 1. Downlaod and install Node.js (If you already have node installed, you can skip this step.) 
+Step 1. Download and install Node.js (If you already have node installed, you can skip this step.) 
         [**Download Node.js**](https://nodejs.org/en/download/)
         
 Step 2. **Installing server dependencies** Go to the local folder where you have cloned the repository via command prompt and type:
